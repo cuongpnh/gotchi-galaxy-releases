@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.6.1",
+          "buildVersion": "601",
+          "date": "2026-10-13",
+          "localizedDescription": "- Pick your first egg: leaf, flame, splash or a rare one.\n- A walk into the shop, with a cat at the counter.\n- Hints in the word games when a puzzle gets tough.\n- A garden hint before it opens; arrows take the focus.\n- Fixed: the arrow in the garden opened a flower bed.",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.6.1/gotchi-galaxy-0.6.1-ios.ipa",
+          "size": 1147970,
+          "sha256": "1321b8e79348c2122cde8f359bc78bedef82254bcd8d3ad47c1b942146ab498c",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.6.0",
           "buildVersion": "600",
           "date": "2026-10-13",
