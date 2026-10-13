@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no" />
+  <title>Gotchi Galaxy</title>
+  <!-- the web version as a Home Screen app (public/manifest.webmanifest, public/sw.js, icons from `npm run icon`) -->
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="icon" type="image/png" href="./icons/icon-192.png" />
+  <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png" />
+  <meta name="theme-color" content="#ff8fc0" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-title" content="Gotchi Galaxy" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <script type="module" crossorigin src="./assets/main-D1B2_Qbx.js"></script>
+  <link rel="modulepreload" crossorigin href="./assets/petSprite-CB_C_76Q.js">
+  <link rel="stylesheet" crossorigin href="./assets/main-Zw2nHpI1.css">
+</head>
+<body>
+  <!-- shown until shell.ts has laid the device out (style.css: body.shell-ready hides it) -->
+  <div id="splash" aria-hidden="true"><div class="egg"><i></i><i></i><i></i></div></div>
+  <div id="device">
+    <div id="case" aria-hidden="true"></div>
+    <div id="controls">
+      <button class="dot" data-win="close" title="Close"></button>
+      <button class="dot" data-win="minimize" title="Minimise"></button>
+      <button class="dot" data-win="pin" title="Keep on top"></button>
+    </div>
+    <canvas id="brand" aria-label="Gotchi Galaxy"></canvas>
+    <div id="bezel">
+      <div id="lcd">
+        <canvas id="screen" width="192" height="160"></canvas>
+      </div>
+    </div>
+    <div id="buttons">
+      <button class="btn" data-nav="next" aria-label="A"><span>A</span></button>
+      <button class="btn" data-nav="ok" aria-label="B"><span>B</span></button>
+      <button class="btn" data-nav="back" aria-label="C"><span>C</span></button>
+    </div>
+    <div id="hint">A select · B ok · C back</div>
+  </div>
+</body>
+</html>

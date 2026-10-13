@@ -1,0 +1,33 @@
+{
+  "name": "Gotchi Galaxy",
+  "identifier": "vn.qifi.gotchigalaxy.source",
+  "sourceURL": "https://cuongpnh.github.io/gotchi-galaxy-releases/altstore.json",
+  "subtitle": "Pixel-art pocket pets",
+  "description": "A pixel-art pocket pet you raise, breed and take to far-away planets.",
+  "iconURL": "https://cuongpnh.github.io/gotchi-galaxy-releases/icon.png",
+  "apps": [
+    {
+      "name": "Gotchi Galaxy",
+      "bundleIdentifier": "vn.qifi.gotchigalaxy",
+      "developerName": "Gotchi Galaxy",
+      "subtitle": "A pocket pet for your phone",
+      "localizedDescription": "A pixel-art pocket pet you raise, breed and take to far-away planets.",
+      "iconURL": "https://cuongpnh.github.io/gotchi-galaxy-releases/icon.png",
+      "tintColor": "ff8fc0",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "0.4.0",
+          "buildVersion": "400",
+          "date": "2026-10-13",
+          "localizedDescription": "- Six new species on Meadowvale and Ribbon Reef.\n- Museum: show your Field Book, visit friends' halls.\n- Share a pet with a nearby friend; new Kid mode.\n- Shells: 10 new looks, plus one for each species and rarity you hatch.\n- Growing up no longer looks like hatching.\n- Call a pet home early from a trip (no rewards).\n- No app? Play in the browser (solo only).\n- Island goals ask for outings, meals, games, catches, crafting.\n- New Island Arch, cuter icon, feedback with a picture.",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.4.0/gotchi-galaxy-0.4.0-ios.ipa",
+          "size": 892987,
+          "sha256": "b9692e53e849e0d117c881800592c7cd42f1db636356b3453b4388aee74bcb2b",
+          "minOSVersion": "15.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
