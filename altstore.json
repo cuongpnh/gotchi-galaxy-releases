@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.5.1",
+          "buildVersion": "501",
+          "date": "2026-10-13",
+          "localizedDescription": "- Mac: the app opens on other Macs (no more \"damaged\").\n- Settings: pick a language from a list.\n- Star Miles: tap a task to go do it.\n- Android: a home-screen widget with your pet.\n- Kinder Vietnamese words in a few menus.",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.5.1/gotchi-galaxy-0.5.1-ios.ipa",
+          "size": 1104856,
+          "sha256": "c5bceef31e4c970b46f9c44fffc3755a1c2ad9fe00421896c6e80201b5050480",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.5.0",
           "buildVersion": "500",
           "date": "2026-10-13",
