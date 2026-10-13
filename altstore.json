@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.6.0",
+          "buildVersion": "600",
+          "date": "2026-10-13",
+          "localizedDescription": "- A garden opens when your first pet grows up.\n- Grow flowers: plant, water, pick, give, craft.\n- Pets wander between rooms; care works anywhere.\n- Word games in English: Letter Swap, Word Pals.\n- Move your island to a new device.\n- Android widget: a little scene with your pet.",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.6.0/gotchi-galaxy-0.6.0-ios.ipa",
+          "size": 1135810,
+          "sha256": "5bb24c90baa93a160023ee6075ed3358769431329b9612df7a7d3c58e6e2056c",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.5.1",
           "buildVersion": "501",
           "date": "2026-10-13",
