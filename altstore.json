@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.7.0",
+          "buildVersion": "700",
+          "date": "2026-10-14",
+          "localizedDescription": "- Clothes: tops, dresses and overalls, and pets grow into their born outfit.\n- Four new hats, and every wardrobe piece redrawn in finer detail.\n- The house in 3D: furniture with real depth, a glass fish tank, a 3D garden.\n- Focus mode gives each life stage its own little scene.\n- Garden: water a whole bed at once and see when each plant can be picked.\n- Letter Swap is now Word Hunt, and no letter gets lost.",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.7.0/gotchi-galaxy-0.7.0-ios.ipa",
+          "size": 1174518,
+          "sha256": "3591077ca1f018363497e04a49f4da788ec28ea4037c8e5a2a1b3080ee627fc9",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.6.1",
           "buildVersion": "601",
           "date": "2026-10-13",
