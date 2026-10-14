@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.7.3",
+          "buildVersion": "703",
+          "date": "2026-10-14",
+          "localizedDescription": "- If the game ever closes by itself, we now learn why, and nothing personal is sent.\n- Long translations on the Housemates page no longer overlap.",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.7.3/gotchi-galaxy-0.7.3-ios.ipa",
+          "size": 2515274,
+          "sha256": "985fd3dd2335f19a8b0d026c6b771849d12db8b6bad65ce39ace622b6e47ff23",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.7.2",
           "buildVersion": "702",
           "date": "2026-10-14",
