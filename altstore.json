@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.5",
+          "buildVersion": "805",
+          "date": "2026-10-14",
+          "localizedDescription": "- New in the shop: a puffy cushion, a painted stool, a cocoa mug and a mint plushie.\n- Pets now hop onto a cushion, stool, bean bag or reading chair on their own, and nap on the bed.",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.5/gotchi-galaxy-0.8.5-ios.ipa",
+          "size": 2554199,
+          "sha256": "249bccbbb0125f6c3a710f479bda91fb2ee06b2ebd21563df5fa72ed3c20cc6d",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.4",
           "buildVersion": "804",
           "date": "2026-10-14",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.7.0/gotchi-galaxy-0.7.0-ios.ipa",
           "size": 1174518,
           "sha256": "3591077ca1f018363497e04a49f4da788ec28ea4037c8e5a2a1b3080ee627fc9",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.6.1",
-          "buildVersion": "601",
-          "date": "2026-10-13",
-          "localizedDescription": "- Pick your first egg: leaf, flame, splash or a rare one.\n- A walk into the shop, with a cat at the counter.\n- Hints in the word games when a puzzle gets tough.\n- A garden hint before it opens; arrows take the focus.\n- Fixed: the arrow in the garden opened a flower bed.",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.6.1/gotchi-galaxy-0.6.1-ios.ipa",
-          "size": 1147970,
-          "sha256": "1321b8e79348c2122cde8f359bc78bedef82254bcd8d3ad47c1b942146ab498c",
           "minOSVersion": "15.0"
         }
       ]
