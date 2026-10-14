@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.0",
+          "buildVersion": "800",
+          "date": "2026-10-14",
+          "localizedDescription": "- Every pet got a glow-up: all 21 species redrawn as little animals, each with a look of its own.\n- Pets are born dressed to suit their personality, in colours of their own.\n- Every species has a signature move it shows off when the mood is right.\n- Bitbot is now Digby the mole, and Rexlet is now Drakelet the baby dragon.\n- With pets asleep in two rooms, the lights switch the room you are in, and turning one off no longer turns another back on.",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.0/gotchi-galaxy-0.8.0-ios.ipa",
+          "size": 2525802,
+          "sha256": "70670e2f24468136110d504ebfa388ea1f7d3eda80be33c32a96e8ae4b986799",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.7.3",
           "buildVersion": "703",
           "date": "2026-10-14",
