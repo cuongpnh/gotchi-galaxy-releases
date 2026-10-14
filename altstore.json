@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.4",
+          "buildVersion": "804",
+          "date": "2026-10-14",
+          "localizedDescription": "- Crafted pieces have their own look in the room: toys, jars, lanterns, a tent, an arch and more, instead of plain crates.\n- Small pieces can sit on a desk, TV, bookshelf or fridge: choose Move and hold one over the top.\n- Star and mask coat patterns now show on every animal.\n- Tails look right from behind, and no tail floats off its body.\n- The pony now looks like a pony: upright ears, a long snout and a smooth mane.",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.4/gotchi-galaxy-0.8.4-ios.ipa",
+          "size": 2550903,
+          "sha256": "58aec7341a4f3d3d2c23f721a03d97953c3a807be745b3409e88b5a1279a292e",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.3",
           "buildVersion": "803",
           "date": "2026-10-14",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.6.1/gotchi-galaxy-0.6.1-ios.ipa",
           "size": 1147970,
           "sha256": "1321b8e79348c2122cde8f359bc78bedef82254bcd8d3ad47c1b942146ab498c",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.6.0",
-          "buildVersion": "600",
-          "date": "2026-10-13",
-          "localizedDescription": "- A garden opens when your first pet grows up.\n- Grow flowers: plant, water, pick, give, craft.\n- Pets wander between rooms; care works anywhere.\n- Word games in English: Letter Swap, Word Pals.\n- Move your island to a new device.\n- Android widget: a little scene with your pet.",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.6.0/gotchi-galaxy-0.6.0-ios.ipa",
-          "size": 1135810,
-          "sha256": "5bb24c90baa93a160023ee6075ed3358769431329b9612df7a7d3c58e6e2056c",
           "minOSVersion": "15.0"
         }
       ]
