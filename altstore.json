@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.3",
+          "buildVersion": "803",
+          "date": "2026-10-14",
+          "localizedDescription": "- Eight new animals: a polar bear cub, an arctic fox, a snow leopard cub and a seal pup on Glacia, a turtle and a toad in Bogmire, and a black cat and a raven on Umbra.\n- Eleven more: a monkey, a crocodile and a chameleon on Fernos, a lion, cheetah, elephant, giraffe, zebra, hippo and rhino on the new planet Sunmane, and a griffin chick on Nebula Prime.",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.3/gotchi-galaxy-0.8.3-ios.ipa",
+          "size": 2545610,
+          "sha256": "f5881c8f592f7f8259a69bef9a042b19f0697901ee95dcda6a579736f77f5d96",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.2",
           "buildVersion": "802",
           "date": "2026-10-14",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.6.0/gotchi-galaxy-0.6.0-ios.ipa",
           "size": 1135810,
           "sha256": "5bb24c90baa93a160023ee6075ed3358769431329b9612df7a7d3c58e6e2056c",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.5.1",
-          "buildVersion": "501",
-          "date": "2026-10-13",
-          "localizedDescription": "- Mac: the app opens on other Macs (no more \"damaged\").\n- Settings: pick a language from a list.\n- Star Miles: tap a task to go do it.\n- Android: a home-screen widget with your pet.\n- Kinder Vietnamese words in a few menus.",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.5.1/gotchi-galaxy-0.5.1-ios.ipa",
-          "size": 1104856,
-          "sha256": "c5bceef31e4c970b46f9c44fffc3755a1c2ad9fe00421896c6e80201b5050480",
           "minOSVersion": "15.0"
         }
       ]
