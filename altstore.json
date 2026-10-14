@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.7.1",
+          "buildVersion": "701",
+          "date": "2026-10-14",
+          "localizedDescription": "- Fixed: on iPhone, the game came back at half size after switching apps.\n- Follow a pet into the garden and you see it walk in.\n- The Love Lab says when a new egg waits in the Lodge.",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.7.1/gotchi-galaxy-0.7.1-ios.ipa",
+          "size": 1175037,
+          "sha256": "acb726f78414dffe96d4e834b52b08e66555156654ed19a8a8661e5958305ac9",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.7.0",
           "buildVersion": "700",
           "date": "2026-10-14",
