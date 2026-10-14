@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.2",
+          "buildVersion": "802",
+          "date": "2026-10-14",
+          "localizedDescription": "- Ten new animals: a mouse, a guinea pig and a parrot on Ribbon Reef, a red panda, an owl, a badger, a chipmunk, a beaver and a wolf pup in Sporewood, and a tiger cub on Fernos.\n- New furniture is picked up as soon as you place it, so you choose where it stands.",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.2/gotchi-galaxy-0.8.2-ios.ipa",
+          "size": 2537723,
+          "sha256": "f5f5fba048b3aba412a13b2a9ccd328517ebe546435d573b77a4fe6ad37b0817",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.1",
           "buildVersion": "801",
           "date": "2026-10-14",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.5.1/gotchi-galaxy-0.5.1-ios.ipa",
           "size": 1104856,
           "sha256": "c5bceef31e4c970b46f9c44fffc3755a1c2ad9fe00421896c6e80201b5050480",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.5.0",
-          "buildVersion": "500",
-          "date": "2026-10-13",
-          "localizedDescription": "- Speaks Vietnamese and Chinese: pick one when your egg lands.\n- Three new family games: Snack Count, Make Ten, Star Path.\n- Tap the Next tip to tuck it into the corner.\n- Mac: Cmd+, opens Settings.\n- Fixes: tab dividers, Make Ten sums.",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.5.0/gotchi-galaxy-0.5.0-ios.ipa",
-          "size": 1097760,
-          "sha256": "04834abb6c28525acf1a7c00dbffbaa30c6051e4afea3904f0152dfe59132924",
           "minOSVersion": "15.0"
         }
       ]
