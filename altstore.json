@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.14",
+          "buildVersion": "814",
+          "date": "2026-10-15",
+          "localizedDescription": "- The town square: the social button opens a square to stroll, with a fountain, benches, stalls and residents to meet\n- Wish at the fountain daily; 7 days in a row brings a lucky wish and a Wishing Well for your garden\n- A weekly game board, a ticket trader open every day, and a flower cart that buys your blooms\n- Cosy evenings: lamps light the room after dark, and a new Floor Lamp in the shop\n- Fixes: planet natives fit their card; the Focus note no longer covers the lamp",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.14/gotchi-galaxy-0.8.14-ios.ipa",
+          "size": 2670700,
+          "sha256": "b232ab317e4f8918082db2922db77abc757933cf6b1225479336596730027e53",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.13",
           "buildVersion": "813",
           "date": "2026-10-15",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.5/gotchi-galaxy-0.8.5-ios.ipa",
           "size": 2554199,
           "sha256": "249bccbbb0125f6c3a710f479bda91fb2ee06b2ebd21563df5fa72ed3c20cc6d",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.8.4",
-          "buildVersion": "804",
-          "date": "2026-10-14",
-          "localizedDescription": "- Crafted pieces have their own look in the room: toys, jars, lanterns, a tent, an arch and more, instead of plain crates.\n- Small pieces can sit on a desk, TV, bookshelf or fridge: choose Move and hold one over the top.\n- Star and mask coat patterns now show on every animal.\n- Tails look right from behind, and no tail floats off its body.\n- The pony now looks like a pony: upright ears, a long snout and a smooth mane.",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.4/gotchi-galaxy-0.8.4-ios.ipa",
-          "size": 2550903,
-          "sha256": "58aec7341a4f3d3d2c23f721a03d97953c3a807be745b3409e88b5a1279a292e",
           "minOSVersion": "15.0"
         }
       ]
