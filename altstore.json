@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.9",
+          "buildVersion": "809",
+          "date": "2026-10-15",
+          "localizedDescription": "- Phones remind you when a trip comes home, an egg hatches or a pet gets hungry, and stay quiet at bedtime.\n- Berry Sums: a new maths game in the Family tab, from counting to taking away.\n- Flowers grow twice as fast. Tap an empty bed with no seeds to visit the Shop.\n- Event neckwear redrawn: flower lei, marigolds, rose pin, rider jacket, snow cape and bat wings.\n- Rare looks in the Love Lab now show stars.",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.9/gotchi-galaxy-0.8.9-ios.ipa",
+          "size": 2622499,
+          "sha256": "29e01b67406f912f5355d98425d5212ea7d4883f4b205ddaf98f3baa189a7a2f",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.8",
           "buildVersion": "808",
           "date": "2026-10-15",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.0/gotchi-galaxy-0.8.0-ios.ipa",
           "size": 2525802,
           "sha256": "70670e2f24468136110d504ebfa388ea1f7d3eda80be33c32a96e8ae4b986799",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.7.3",
-          "buildVersion": "703",
-          "date": "2026-10-14",
-          "localizedDescription": "- If the game ever closes by itself, we now learn why, and nothing personal is sent.\n- Long translations on the Housemates page no longer overlap.",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.7.3/gotchi-galaxy-0.7.3-ios.ipa",
-          "size": 2515274,
-          "sha256": "985fd3dd2335f19a8b0d026c6b771849d12db8b6bad65ce39ace622b6e47ff23",
           "minOSVersion": "15.0"
         }
       ]
