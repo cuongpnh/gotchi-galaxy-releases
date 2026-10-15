@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.10",
+          "buildVersion": "810",
+          "date": "2026-10-15",
+          "localizedDescription": "- Away reminders now reach your iPhone.\n- Friends hug, jump for joy together, and soulmates hold hands.\n- No Flower Gift to send? The tap takes you to the Shop.",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.10/gotchi-galaxy-0.8.10-ios.ipa",
+          "size": 2624960,
+          "sha256": "56a777a69771936ee79c4ac79a132221ceb2fd807966390046470ec7ab552243",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.9",
           "buildVersion": "809",
           "date": "2026-10-15",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.1/gotchi-galaxy-0.8.1-ios.ipa",
           "size": 2533582,
           "sha256": "fa8d94098dd31fb1fbec8a1daf8622282757029ef78e0f98898c593227d2b360",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.8.0",
-          "buildVersion": "800",
-          "date": "2026-10-14",
-          "localizedDescription": "- Every pet got a glow-up: all 21 species redrawn as little animals, each with a look of its own.\n- Pets are born dressed to suit their personality, in colours of their own.\n- Every species has a signature move it shows off when the mood is right.\n- Bitbot is now Digby the mole, and Rexlet is now Drakelet the baby dragon.\n- With pets asleep in two rooms, the lights switch the room you are in, and turning one off no longer turns another back on.",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.0/gotchi-galaxy-0.8.0-ios.ipa",
-          "size": 2525802,
-          "sha256": "70670e2f24468136110d504ebfa388ea1f7d3eda80be33c32a96e8ae4b986799",
           "minOSVersion": "15.0"
         }
       ]
