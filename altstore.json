@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.17",
+          "buildVersion": "817",
+          "date": "2026-10-15",
+          "localizedDescription": "- Two new furniture sets: the Cloud Nursery (eggs hatch sooner) and the Sweet Bakery (treats cheer more)\n- Memory duels at the Market table: play another player, or Chirpy\n- Chirpy's stage show: one show a day, clap your pets to an encore\n- Sleepovers: a friend's pet stays the night, and you both keep the photo\n- Besties hold hands on the bench, a Spotlight hat, and an easier way round the square",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.17/gotchi-galaxy-0.8.17-ios.ipa",
+          "size": 2737043,
+          "sha256": "0a97002c5b6a055e6e3e306929dc8e767a323e3a6376789a9d6cbd87c952cdca",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.16",
           "buildVersion": "816",
           "date": "2026-10-15",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.8/gotchi-galaxy-0.8.8-ios.ipa",
           "size": 2568954,
           "sha256": "ed2b650ce9f5d15aa1da0d1c9f0ccb2e3ce11beb9cf27844d6a323b21d67fc9e",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.8.7",
-          "buildVersion": "807",
-          "date": "2026-10-15",
-          "localizedDescription": "- Bred pets can mix parts: a fox with a tiger tail! The pet card shows what each one carries.\n- The Love Lab shows each part's odds and how long parents need to rest.\n- New in the Shop: a Starter Egg and an Egg of the Week.\n- The garden opens when your first pet becomes a teen.\n- Friends play together when they have the same update.\n- Fixed: tapping fast through menus could close the game.",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.7/gotchi-galaxy-0.8.7-ios.ipa",
-          "size": 2561184,
-          "sha256": "1b591de2fdebd74a8a417ea949f74404c5bfa9e95594697a1b6ebc6b41dde0eb",
           "minOSVersion": "15.0"
         }
       ]
