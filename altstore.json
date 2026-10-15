@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.7",
+          "buildVersion": "807",
+          "date": "2026-10-15",
+          "localizedDescription": "- Bred pets can mix parts: a fox with a tiger tail! The pet card shows what each one carries.\n- The Love Lab shows each part's odds and how long parents need to rest.\n- New in the Shop: a Starter Egg and an Egg of the Week.\n- The garden opens when your first pet becomes a teen.\n- Friends play together when they have the same update.\n- Fixed: tapping fast through menus could close the game.",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.7/gotchi-galaxy-0.8.7-ios.ipa",
+          "size": 2561184,
+          "sha256": "1b591de2fdebd74a8a417ea949f74404c5bfa9e95594697a1b6ebc6b41dde0eb",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.6",
           "buildVersion": "806",
           "date": "2026-10-15",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.7.2/gotchi-galaxy-0.7.2-ios.ipa",
           "size": 1193002,
           "sha256": "17f0f11987ba4d212bd99a8e81472192cce4d05db5a3066ae59856c091f4b113",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.7.1",
-          "buildVersion": "701",
-          "date": "2026-10-14",
-          "localizedDescription": "- Fixed: on iPhone, the game came back at half size after switching apps.\n- Follow a pet into the garden and you see it walk in.\n- The Love Lab says when a new egg waits in the Lodge.",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.7.1/gotchi-galaxy-0.7.1-ios.ipa",
-          "size": 1175037,
-          "sha256": "acb726f78414dffe96d4e834b52b08e66555156654ed19a8a8661e5958305ac9",
           "minOSVersion": "15.0"
         }
       ]
