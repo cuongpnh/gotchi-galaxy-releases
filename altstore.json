@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.12",
+          "buildVersion": "812",
+          "date": "2026-10-15",
+          "localizedDescription": "- Weekend festivals: a new theme every Friday evening, festival tickets, three tasks and a stall\n- Crafting: petals, seed pods, driftwood and old relics, and eight recipes to work out",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.12/gotchi-galaxy-0.8.12-ios.ipa",
+          "size": 2641581,
+          "sha256": "5fe85414a47c990269b380e10c6ed720ab4b71a541e6538f398a2620bdb49cdf",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.11",
           "buildVersion": "811",
           "date": "2026-10-15",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.3/gotchi-galaxy-0.8.3-ios.ipa",
           "size": 2545610,
           "sha256": "f5881c8f592f7f8259a69bef9a042b19f0697901ee95dcda6a579736f77f5d96",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.8.2",
-          "buildVersion": "802",
-          "date": "2026-10-14",
-          "localizedDescription": "- Ten new animals: a mouse, a guinea pig and a parrot on Ribbon Reef, a red panda, an owl, a badger, a chipmunk, a beaver and a wolf pup in Sporewood, and a tiger cub on Fernos.\n- New furniture is picked up as soon as you place it, so you choose where it stands.",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.2/gotchi-galaxy-0.8.2-ios.ipa",
-          "size": 2537723,
-          "sha256": "f5f5fba048b3aba412a13b2a9ccd328517ebe546435d573b77a4fe6ad37b0817",
           "minOSVersion": "15.0"
         }
       ]
