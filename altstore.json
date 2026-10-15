@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.11",
+          "buildVersion": "811",
+          "date": "2026-10-15",
+          "localizedDescription": "- Decorate the garden too: tap the sofa button and place furniture on the lawn.\n- New for the garden: a park bench, a birdbath, a lamp post and a picnic blanket.\n- Power, wit and charm now help: more finds on trips, faster surveys, rarer babies and trader discounts.\n- Fixed: a pet walking between rooms could show up in the wrong room.",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.11/gotchi-galaxy-0.8.11-ios.ipa",
+          "size": 2630869,
+          "sha256": "06deeda86393c56dcc07d3d65717c8c247ebba6aba059614555ed8b0a8b98908",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.10",
           "buildVersion": "810",
           "date": "2026-10-15",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.2/gotchi-galaxy-0.8.2-ios.ipa",
           "size": 2537723,
           "sha256": "f5f5fba048b3aba412a13b2a9ccd328517ebe546435d573b77a4fe6ad37b0817",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.8.1",
-          "buildVersion": "801",
-          "date": "2026-10-14",
-          "localizedDescription": "- Six farm friends moved to Meadowvale: a piglet, a calf, a duckling, a chick, a goat kid and a pony.\n- Every piece of furniture is now built from 3D shapes, so legs, tops and shelves always line up.\n- Move your furniture anywhere on the floor: Room Decor, Furniture, pick a piece, Move. Your pets walk around it.",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.1/gotchi-galaxy-0.8.1-ios.ipa",
-          "size": 2533582,
-          "sha256": "fa8d94098dd31fb1fbec8a1daf8622282757029ef78e0f98898c593227d2b360",
           "minOSVersion": "15.0"
         }
       ]
