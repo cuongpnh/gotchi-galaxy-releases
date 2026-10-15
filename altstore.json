@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.16",
+          "buildVersion": "816",
+          "date": "2026-10-15",
+          "localizedDescription": "- Furniture sets: the Little Lab, six pieces with its own wallpaper and floor. Finish a set in one room for its look and a perk\n- Rooms hold 10 pieces; small ones sit on tops\n- Friends online: swap friend codes to send visits, gifts and waves anywhere\n- Party rounds on the square every 10 minutes: one game for all, a podium and coins\n- Market Finds, the Plaza ribbon, wings that flap again",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.16/gotchi-galaxy-0.8.16-ios.ipa",
+          "size": 2712601,
+          "sha256": "b97b92d1fa8b3bd946ec6613d6306de3288ce4eefa0e0ac9dfe8e2868978af13",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.15",
           "buildVersion": "815",
           "date": "2026-10-15",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.7/gotchi-galaxy-0.8.7-ios.ipa",
           "size": 2561184,
           "sha256": "1b591de2fdebd74a8a417ea949f74404c5bfa9e95594697a1b6ebc6b41dde0eb",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.8.6",
-          "buildVersion": "806",
-          "date": "2026-10-15",
-          "localizedDescription": "- Pets sit down properly on a cushion, stool, bean bag or chair.\n- Seen from behind, every tail has a clear outline, even a white tail on a white coat.",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.6/gotchi-galaxy-0.8.6-ios.ipa",
-          "size": 2554636,
-          "sha256": "69fb7cc3780689be13b895e3b11a05306e5f20e24bc6948de8385270370127cb",
           "minOSVersion": "15.0"
         }
       ]
