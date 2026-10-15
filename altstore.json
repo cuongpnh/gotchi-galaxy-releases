@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.8",
+          "buildVersion": "808",
+          "date": "2026-10-15",
+          "localizedDescription": "- A sofa button under your coins opens decorating: move, store or place furniture in a tap.\n- The Shop sells different costumes and furniture each day. New pieces sparkle until you buy them.\n- New: 8 outfits, a tiny cactus, an alarm clock and a spinning globe.\n- Star Fishing opens for child pets, Treasure Map for teens.\n- The Gotchi-dex collects the parts your pets have shown.",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.8/gotchi-galaxy-0.8.8-ios.ipa",
+          "size": 2568954,
+          "sha256": "ed2b650ce9f5d15aa1da0d1c9f0ccb2e3ce11beb9cf27844d6a323b21d67fc9e",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.7",
           "buildVersion": "807",
           "date": "2026-10-15",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.7.3/gotchi-galaxy-0.7.3-ios.ipa",
           "size": 2515274,
           "sha256": "985fd3dd2335f19a8b0d026c6b771849d12db8b6bad65ce39ace622b6e47ff23",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.7.2",
-          "buildVersion": "702",
-          "date": "2026-10-14",
-          "localizedDescription": "- Eight new dresses in the wardrobe: pinafores, puff sleeves, lace hems, a blossom coat.\n- Hats now sit right on every pet: none over the eyes, none floating.\n- Festive hats redrawn in full detail.\n- Every species' own piece is now in the wardrobe: keep it on, or take it off.\n- The beanie, nightcap, earmuffs, cloud clip and scarf species are born with, redrawn.\n- Bows, bells and medals show properly on every pet, babies too.\n- Pets use the garden door, move smoothly and stay dry at clean-up.",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.7.2/gotchi-galaxy-0.7.2-ios.ipa",
-          "size": 1193002,
-          "sha256": "17f0f11987ba4d212bd99a8e81472192cce4d05db5a3066ae59856c091f4b113",
           "minOSVersion": "15.0"
         }
       ]
