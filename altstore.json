@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.15",
+          "buildVersion": "815",
+          "date": "2026-10-15",
+          "localizedDescription": "- Care routes: how you raise a child and teen picks the adult (Star, Sweet Tooth, Free Spirit, Polite, Scrappy, Dreamy), with its own face, mark and perk\n- Raised with care, a grumpy kid can grow up sweet. Fill each species' Routes page in the dex\n- The square at full pet size, redrawn, with other players' pets live and stickers\n- Befriend the square's residents for gifts; Play nearby opens LAN play\n- Fixes: bench seats, the square's sky, smoother on slow phones, no blank screen after waking",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.15/gotchi-galaxy-0.8.15-ios.ipa",
+          "size": 2691638,
+          "sha256": "39573874a99659df27cca48a56eba36254243df6d08fedcd828fcc4c1efc040b",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.14",
           "buildVersion": "814",
           "date": "2026-10-15",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.6/gotchi-galaxy-0.8.6-ios.ipa",
           "size": 2554636,
           "sha256": "69fb7cc3780689be13b895e3b11a05306e5f20e24bc6948de8385270370127cb",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.8.5",
-          "buildVersion": "805",
-          "date": "2026-10-14",
-          "localizedDescription": "- New in the shop: a puffy cushion, a painted stool, a cocoa mug and a mint plushie.\n- Pets now hop onto a cushion, stool, bean bag or reading chair on their own, and nap on the bed.",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.5/gotchi-galaxy-0.8.5-ios.ipa",
-          "size": 2554199,
-          "sha256": "249bccbbb0125f6c3a710f479bda91fb2ee06b2ebd21563df5fa72ed3c20cc6d",
           "minOSVersion": "15.0"
         }
       ]
