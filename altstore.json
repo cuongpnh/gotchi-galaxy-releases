@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.6",
+          "buildVersion": "806",
+          "date": "2026-10-15",
+          "localizedDescription": "- Pets sit down properly on a cushion, stool, bean bag or chair.\n- Seen from behind, every tail has a clear outline, even a white tail on a white coat.",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.6/gotchi-galaxy-0.8.6-ios.ipa",
+          "size": 2554636,
+          "sha256": "69fb7cc3780689be13b895e3b11a05306e5f20e24bc6948de8385270370127cb",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.5",
           "buildVersion": "805",
           "date": "2026-10-14",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.7.1/gotchi-galaxy-0.7.1-ios.ipa",
           "size": 1175037,
           "sha256": "acb726f78414dffe96d4e834b52b08e66555156654ed19a8a8661e5958305ac9",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.7.0",
-          "buildVersion": "700",
-          "date": "2026-10-14",
-          "localizedDescription": "- Clothes: tops, dresses and overalls, and pets grow into their born outfit.\n- Four new hats, and every wardrobe piece redrawn in finer detail.\n- The house in 3D: furniture with real depth, a glass fish tank, a 3D garden.\n- Focus mode gives each life stage its own little scene.\n- Garden: water a whole bed at once and see when each plant can be picked.\n- Letter Swap is now Word Hunt, and no letter gets lost.",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.7.0/gotchi-galaxy-0.7.0-ios.ipa",
-          "size": 1174518,
-          "sha256": "3591077ca1f018363497e04a49f4da788ec28ea4037c8e5a2a1b3080ee627fc9",
           "minOSVersion": "15.0"
         }
       ]
