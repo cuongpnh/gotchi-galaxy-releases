@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.13",
+          "buildVersion": "813",
+          "date": "2026-10-15",
+          "localizedDescription": "- New furniture: a rocking chair, a toy chest, a striped hammock and a flower arch\n- Moving to a new device keeps the old island for 7 days, in case you want it back\n- Festival weekends: the Festival sits near the top of the menu, and tickets earned offline all reach the shared goal\n- Fixes: a wall picture no longer disappears when the back of the room is full; New Year Glasses are now Party Glasses",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.13/gotchi-galaxy-0.8.13-ios.ipa",
+          "size": 2650484,
+          "sha256": "fc958d620e9ed4704387387751b1831d430c80f931a15f56c5b32eecb4734f1f",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.12",
           "buildVersion": "812",
           "date": "2026-10-15",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.4/gotchi-galaxy-0.8.4-ios.ipa",
           "size": 2550903,
           "sha256": "58aec7341a4f3d3d2c23f721a03d97953c3a807be745b3409e88b5a1279a292e",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.8.3",
-          "buildVersion": "803",
-          "date": "2026-10-14",
-          "localizedDescription": "- Eight new animals: a polar bear cub, an arctic fox, a snow leopard cub and a seal pup on Glacia, a turtle and a toad in Bogmire, and a black cat and a raven on Umbra.\n- Eleven more: a monkey, a crocodile and a chameleon on Fernos, a lion, cheetah, elephant, giraffe, zebra, hippo and rhino on the new planet Sunmane, and a griffin chick on Nebula Prime.",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.3/gotchi-galaxy-0.8.3-ios.ipa",
-          "size": 2545610,
-          "sha256": "f5881c8f592f7f8259a69bef9a042b19f0697901ee95dcda6a579736f77f5d96",
           "minOSVersion": "15.0"
         }
       ]
