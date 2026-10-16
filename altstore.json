@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.19",
+          "buildVersion": "819",
+          "date": "2026-10-16",
+          "localizedDescription": "- Walk with me: on a phone, your day's steps make the next trip faster\n- Today's list: a few small things a day, then you're done\n- Feed and play reach every pet at once; grown pets need less\n- Grown-ups settings: play time limit, quiet hours, fake calls off\n- Back after a while? A visitor may wait in the garden\n- New games: Bomb Miner, Follow the Leader, duels and a rhythm stage show\n- Share a picture of the game or your pet's diary\n- Game coins slow down after a busy day",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.19/gotchi-galaxy-0.8.19-ios.ipa",
+          "size": 2907325,
+          "sha256": "d6625ec6f0daa2d47727ba9bd43d3e44c56198e7027cb197440c7b29656758b7",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.18",
           "buildVersion": "818",
           "date": "2026-10-16",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.10/gotchi-galaxy-0.8.10-ios.ipa",
           "size": 2624960,
           "sha256": "56a777a69771936ee79c4ac79a132221ceb2fd807966390046470ec7ab552243",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.8.9",
-          "buildVersion": "809",
-          "date": "2026-10-15",
-          "localizedDescription": "- Phones remind you when a trip comes home, an egg hatches or a pet gets hungry, and stay quiet at bedtime.\n- Berry Sums: a new maths game in the Family tab, from counting to taking away.\n- Flowers grow twice as fast. Tap an empty bed with no seeds to visit the Shop.\n- Event neckwear redrawn: flower lei, marigolds, rose pin, rider jacket, snow cape and bat wings.\n- Rare looks in the Love Lab now show stars.",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.9/gotchi-galaxy-0.8.9-ios.ipa",
-          "size": 2622499,
-          "sha256": "29e01b67406f912f5355d98425d5212ea7d4883f4b205ddaf98f3baa189a7a2f",
           "minOSVersion": "15.0"
         }
       ]
