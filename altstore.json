@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.18",
+          "buildVersion": "818",
+          "date": "2026-10-16",
+          "localizedDescription": "- Every furniture set redrawn: ten pieces each, arranged like a real room\n- New set: the Apricot Parlour. Two pets on its sofa grow closer\n- New sets for the garden: the Fairy Ring Garden and the Garden Stage; the beds are redrawn\n- Each pet has a wish of the day\n- Make friends on the square; friends can start a family\n- Visit a friend's room and leave a sticker on their window\n- All together party rounds, and sets show where to find a missing piece",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.18/gotchi-galaxy-0.8.18-ios.ipa",
+          "size": 2804961,
+          "sha256": "928686facf2c7a0ea8561566b541f5461c55bd367e4211bce894d58e31a36884",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.17",
           "buildVersion": "817",
           "date": "2026-10-15",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.9/gotchi-galaxy-0.8.9-ios.ipa",
           "size": 2622499,
           "sha256": "29e01b67406f912f5355d98425d5212ea7d4883f4b205ddaf98f3baa189a7a2f",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.8.8",
-          "buildVersion": "808",
-          "date": "2026-10-15",
-          "localizedDescription": "- A sofa button under your coins opens decorating: move, store or place furniture in a tap.\n- The Shop sells different costumes and furniture each day. New pieces sparkle until you buy them.\n- New: 8 outfits, a tiny cactus, an alarm clock and a spinning globe.\n- Star Fishing opens for child pets, Treasure Map for teens.\n- The Gotchi-dex collects the parts your pets have shown.",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.8/gotchi-galaxy-0.8.8-ios.ipa",
-          "size": 2568954,
-          "sha256": "ed2b650ce9f5d15aa1da0d1c9f0ccb2e3ce11beb9cf27844d6a323b21d67fc9e",
           "minOSVersion": "15.0"
         }
       ]
