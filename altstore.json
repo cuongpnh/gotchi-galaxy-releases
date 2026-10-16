@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.20",
+          "buildVersion": "820",
+          "date": "2026-10-16",
+          "localizedDescription": "- One Daily list: five small things a day, Star Miles for each, the shop inside\n- Long menu lines slide so you can read them all\n- Quiet hours slow needs only: pets keep growing\n- On holiday, the Daily list wishes you a good one",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.20/gotchi-galaxy-0.8.20-ios.ipa",
+          "size": 2905773,
+          "sha256": "500d5a33ef47e8ec920199104345f3ea783862c3872b1b37cbe37c0a3a8facf9",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.19",
           "buildVersion": "819",
           "date": "2026-10-16",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.11/gotchi-galaxy-0.8.11-ios.ipa",
           "size": 2630869,
           "sha256": "06deeda86393c56dcc07d3d65717c8c247ebba6aba059614555ed8b0a8b98908",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.8.10",
-          "buildVersion": "810",
-          "date": "2026-10-15",
-          "localizedDescription": "- Away reminders now reach your iPhone.\n- Friends hug, jump for joy together, and soulmates hold hands.\n- No Flower Gift to send? The tap takes you to the Shop.",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.10/gotchi-galaxy-0.8.10-ios.ipa",
-          "size": 2624960,
-          "sha256": "56a777a69771936ee79c4ac79a132221ceb2fd807966390046470ec7ab552243",
           "minOSVersion": "15.0"
         }
       ]
