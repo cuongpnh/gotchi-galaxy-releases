@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.21",
+          "buildVersion": "821",
+          "date": "2026-10-16",
+          "localizedDescription": "- The trip porthole shows whoever is home; swipe to see each pet that is out\n- At night with the lights on, your room stays bright; lights off puts the candles out\n- The square reconnects by itself and keeps your place\n- Grown-ups can turn off sharing play counts",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.21/gotchi-galaxy-0.8.21-ios.ipa",
+          "size": 2910770,
+          "sha256": "36845c41b4e5add85aa9943c6fc119353f596c0e1073267036853d965cca87f1",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.20",
           "buildVersion": "820",
           "date": "2026-10-16",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.12/gotchi-galaxy-0.8.12-ios.ipa",
           "size": 2641581,
           "sha256": "5fe85414a47c990269b380e10c6ed720ab4b71a541e6538f398a2620bdb49cdf",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.8.11",
-          "buildVersion": "811",
-          "date": "2026-10-15",
-          "localizedDescription": "- Decorate the garden too: tap the sofa button and place furniture on the lawn.\n- New for the garden: a park bench, a birdbath, a lamp post and a picnic blanket.\n- Power, wit and charm now help: more finds on trips, faster surveys, rarer babies and trader discounts.\n- Fixed: a pet walking between rooms could show up in the wrong room.",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.11/gotchi-galaxy-0.8.11-ios.ipa",
-          "size": 2630869,
-          "sha256": "06deeda86393c56dcc07d3d65717c8c247ebba6aba059614555ed8b0a8b98908",
           "minOSVersion": "15.0"
         }
       ]
