@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.22",
+          "buildVersion": "822",
+          "date": "2026-10-16",
+          "localizedDescription": "- The trip porthole sits at the top right: tap it to look in on your pet\n- Hearts and little icons sit in the middle of the thought bubble",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.22/gotchi-galaxy-0.8.22-ios.ipa",
+          "size": 2910952,
+          "sha256": "260405c086a413cbb468111d0eaaafc8515c60829c82d5e295eb689cb776b0f7",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.21",
           "buildVersion": "821",
           "date": "2026-10-16",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.13/gotchi-galaxy-0.8.13-ios.ipa",
           "size": 2650484,
           "sha256": "fc958d620e9ed4704387387751b1831d430c80f931a15f56c5b32eecb4734f1f",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.8.12",
-          "buildVersion": "812",
-          "date": "2026-10-15",
-          "localizedDescription": "- Weekend festivals: a new theme every Friday evening, festival tickets, three tasks and a stall\n- Crafting: petals, seed pods, driftwood and old relics, and eight recipes to work out",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.12/gotchi-galaxy-0.8.12-ios.ipa",
-          "size": 2641581,
-          "sha256": "5fe85414a47c990269b380e10c6ed720ab4b71a541e6538f398a2620bdb49cdf",
           "minOSVersion": "15.0"
         }
       ]
