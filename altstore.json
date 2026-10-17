@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.23",
+          "buildVersion": "823",
+          "date": "2026-10-17",
+          "localizedDescription": "- New islands get a welcome gift every day for a week\n- Every day: a free coin and a free spin of the prize wheel in the Shop\n- Gifts can arrive in your Mailbox: look for the dot\n- A new day starts at the same time for every player\n- Family pets cannot start a family; wild-born pets show where they were found\n- Pets open their mouths to eat\n- Vietnamese letters are easier to read\n- A moved island keeps its friend code",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.23/gotchi-galaxy-0.8.23-ios.ipa",
+          "size": 2924864,
+          "sha256": "fbd256d7ff6863d02b5afaafaee0bf03812465250362d094154c3fe77a39d42b",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.22",
           "buildVersion": "822",
           "date": "2026-10-16",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.14/gotchi-galaxy-0.8.14-ios.ipa",
           "size": 2670700,
           "sha256": "b232ab317e4f8918082db2922db77abc757933cf6b1225479336596730027e53",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.8.13",
-          "buildVersion": "813",
-          "date": "2026-10-15",
-          "localizedDescription": "- New furniture: a rocking chair, a toy chest, a striped hammock and a flower arch\n- Moving to a new device keeps the old island for 7 days, in case you want it back\n- Festival weekends: the Festival sits near the top of the menu, and tickets earned offline all reach the shared goal\n- Fixes: a wall picture no longer disappears when the back of the room is full; New Year Glasses are now Party Glasses",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.13/gotchi-galaxy-0.8.13-ios.ipa",
-          "size": 2650484,
-          "sha256": "fc958d620e9ed4704387387751b1831d430c80f931a15f56c5b32eecb4734f1f",
           "minOSVersion": "15.0"
         }
       ]
