@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.24",
+          "buildVersion": "824",
+          "date": "2026-10-17",
+          "localizedDescription": "- A cheerful hello when the game starts\n- The welcome gifts show what each day holds, and what comes tomorrow\n- The welcome gifts stay in the Daily list all week\n- Friends are in the main menu, one tap from your room\n- A gift on its way to a friend says so\n- Trips coming home together send one notice, not many",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.24/gotchi-galaxy-0.8.24-ios.ipa",
+          "size": 2941091,
+          "sha256": "e715dcd4d48129a6ec43519b0a8e607edf611328744e3c0d92482a1786825bda",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.23",
           "buildVersion": "823",
           "date": "2026-10-17",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.15/gotchi-galaxy-0.8.15-ios.ipa",
           "size": 2691638,
           "sha256": "39573874a99659df27cca48a56eba36254243df6d08fedcd828fcc4c1efc040b",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.8.14",
-          "buildVersion": "814",
-          "date": "2026-10-15",
-          "localizedDescription": "- The town square: the social button opens a square to stroll, with a fountain, benches, stalls and residents to meet\n- Wish at the fountain daily; 7 days in a row brings a lucky wish and a Wishing Well for your garden\n- A weekly game board, a ticket trader open every day, and a flower cart that buys your blooms\n- Cosy evenings: lamps light the room after dark, and a new Floor Lamp in the shop\n- Fixes: planet natives fit their card; the Focus note no longer covers the lamp",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.14/gotchi-galaxy-0.8.14-ios.ipa",
-          "size": 2670700,
-          "sha256": "b232ab317e4f8918082db2922db77abc757933cf6b1225479336596730027e53",
           "minOSVersion": "15.0"
         }
       ]
