@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.26",
+          "buildVersion": "826",
+          "date": "2026-10-17",
+          "localizedDescription": "- Plaza Expedition: dig the Deep Mine with a friend or Chirpy at the mine cart table\n- Your team pickaxe upgrades itself from the ore you find\n- Light a bomb to blast rocks open, in your own mine too\n- Tap a rock to walk over and dig\n- New gem-style ore icons\n- Tidier screens: titles, numbers and icons line up\n- The Night Sky Cloak shows its stars",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.26/gotchi-galaxy-0.8.26-ios.ipa",
+          "size": 2979787,
+          "sha256": "ddf6de2f44990f595bd21c3f3c2c8e3ca386855951e43b02a66c3f65deb3a45e",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.25",
           "buildVersion": "825",
           "date": "2026-10-17",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.17/gotchi-galaxy-0.8.17-ios.ipa",
           "size": 2737043,
           "sha256": "0a97002c5b6a055e6e3e306929dc8e767a323e3a6376789a9d6cbd87c952cdca",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.8.16",
-          "buildVersion": "816",
-          "date": "2026-10-15",
-          "localizedDescription": "- Furniture sets: the Little Lab, six pieces with its own wallpaper and floor. Finish a set in one room for its look and a perk\n- Rooms hold 10 pieces; small ones sit on tops\n- Friends online: swap friend codes to send visits, gifts and waves anywhere\n- Party rounds on the square every 10 minutes: one game for all, a podium and coins\n- Market Finds, the Plaza ribbon, wings that flap again",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.16/gotchi-galaxy-0.8.16-ios.ipa",
-          "size": 2712601,
-          "sha256": "b97b92d1fa8b3bd946ec6613d6306de3288ce4eefa0e0ac9dfe8e2868978af13",
           "minOSVersion": "15.0"
         }
       ]
