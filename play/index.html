@@ -13,14 +13,22 @@
   <meta name="mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-title" content="Gotchi Galaxy" />
   <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-  <script type="module" crossorigin src="./assets/main-D7gb6a5M.js"></script>
+  <!-- the Mac app's window is see-through, so the splash card is rounded there, not a hard rectangle (style.css); set before anything paints -->
+  <script>if (/Electron\//.test(navigator.userAgent)) document.documentElement.classList.add('desktop');</script>
+  <script type="module" crossorigin src="./assets/main-BbhbACz6.js"></script>
+  <link rel="modulepreload" crossorigin href="./assets/petSprite-CkgYjdFB.js">
   <link rel="modulepreload" crossorigin href="./assets/rolldown-runtime-DK3Fl9T5.js">
-  <link rel="modulepreload" crossorigin href="./assets/petSprite-CTQYZQLA.js">
-  <link rel="stylesheet" crossorigin href="./assets/main-DXSdqEbv.css">
+  <link rel="modulepreload" crossorigin href="./assets/dist-62TeNfsI.js">
+  <link rel="modulepreload" crossorigin href="./assets/preload-helper-CRzLMJPS.js">
+  <link rel="modulepreload" crossorigin href="./assets/menus-GmduucBJ.js">
+  <link rel="stylesheet" crossorigin href="./assets/main-DQJwHsEp.css">
 </head>
 <body>
-  <!-- shown until shell.ts has laid the device out (style.css: body.shell-ready hides it) -->
-  <div id="splash" aria-hidden="true"><div class="egg"><i></i><i></i><i></i></div></div>
+  <!-- the splash card: up until the start-up voice has finished (src/splash.ts paints the meadow; body.splash-done hides it) -->
+  <div id="splash" aria-hidden="true">
+    <canvas class="sky"></canvas>
+    <div class="band"><canvas class="title"></canvas><canvas class="scene"></canvas></div>
+  </div>
   <div id="device">
     <div id="case" aria-hidden="true"></div>
     <div id="controls">

@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.25",
+          "buildVersion": "825",
+          "date": "2026-10-17",
+          "localizedDescription": "- The Deep Mine: dig down 99 floors for six kinds of ore\n- Craft a Crystal Cave room and gem wear from your ore\n- Crack geodes at the Museum to fill the Gem Shelf\n- Pick a ceiling light for each room\n- Pets sit on more seats, and capes look right from behind\n- Pinch to zoom in the room, the garden and the Plaza\n- The Shop is on the room's bottom row\n- Your pet's age shows its life stage",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.25/gotchi-galaxy-0.8.25-ios.ipa",
+          "size": 2965062,
+          "sha256": "666d529bb4a7d113cd8abfd3e8ad03507cf3564385dba56ef8c9bfd0e16ad468",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.24",
           "buildVersion": "824",
           "date": "2026-10-17",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.16/gotchi-galaxy-0.8.16-ios.ipa",
           "size": 2712601,
           "sha256": "b97b92d1fa8b3bd946ec6613d6306de3288ce4eefa0e0ac9dfe8e2868978af13",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.8.15",
-          "buildVersion": "815",
-          "date": "2026-10-15",
-          "localizedDescription": "- Care routes: how you raise a child and teen picks the adult (Star, Sweet Tooth, Free Spirit, Polite, Scrappy, Dreamy), with its own face, mark and perk\n- Raised with care, a grumpy kid can grow up sweet. Fill each species' Routes page in the dex\n- The square at full pet size, redrawn, with other players' pets live and stickers\n- Befriend the square's residents for gifts; Play nearby opens LAN play\n- Fixes: bench seats, the square's sky, smoother on slow phones, no blank screen after waking",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.15/gotchi-galaxy-0.8.15-ios.ipa",
-          "size": 2691638,
-          "sha256": "39573874a99659df27cca48a56eba36254243df6d08fedcd828fcc4c1efc040b",
           "minOSVersion": "15.0"
         }
       ]
