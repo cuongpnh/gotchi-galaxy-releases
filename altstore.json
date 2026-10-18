@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.27",
+          "buildVersion": "827",
+          "date": "2026-10-18",
+          "localizedDescription": "- Meet Kumi, a rare nine-tailed fox: breed two carriers from Umbra to find one\n- Kumi comes in jade or crimson, with a shell of its own\n- Five new home sets in Shop > Home, each with a hanging light\n- Look in on a trip: your pet reacts to its planet\n- The pet profile shows its stage and birthday\n- Camera pictures leave the menus out\n- Festival games count while your pets sleep\n- Moon Rabbit Ears rest while we redraw them\n- Island play: everyone needs this version",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.27/gotchi-galaxy-0.8.27-ios.ipa",
+          "size": 3015582,
+          "sha256": "25e4d30c620deaec8c36bdd74ea6d023328853a93465e5a4c524ecd2d942c7df",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.26",
           "buildVersion": "826",
           "date": "2026-10-17",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.18/gotchi-galaxy-0.8.18-ios.ipa",
           "size": 2804961,
           "sha256": "928686facf2c7a0ea8561566b541f5461c55bd367e4211bce894d58e31a36884",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.8.17",
-          "buildVersion": "817",
-          "date": "2026-10-15",
-          "localizedDescription": "- Two new furniture sets: the Cloud Nursery (eggs hatch sooner) and the Sweet Bakery (treats cheer more)\n- Memory duels at the Market table: play another player, or Chirpy\n- Chirpy's stage show: one show a day, clap your pets to an encore\n- Sleepovers: a friend's pet stays the night, and you both keep the photo\n- Besties hold hands on the bench, a Spotlight hat, and an easier way round the square",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.17/gotchi-galaxy-0.8.17-ios.ipa",
-          "size": 2737043,
-          "sha256": "0a97002c5b6a055e6e3e306929dc8e767a323e3a6376789a9d6cbd87c952cdca",
           "minOSVersion": "15.0"
         }
       ]
