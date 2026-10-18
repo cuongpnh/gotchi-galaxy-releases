@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.28",
+          "buildVersion": "828",
+          "date": "2026-10-18",
+          "localizedDescription": "- New game: Yum Merge, slide the foods together, no top score\n- Duel a friend or Chirpy at Yum Merge on the square\n- Every square table now plays every game, Follow the Leader too\n- Every game round pays 30 coins, win or lose, up to 450 a day\n- Chirpy sits in at once when you are alone on the square\n- Look in on a trip: tap your pet to chat with it\n- Pet thoughts float over their heads, no bubble box\n- Square play: everyone needs this version",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.28/gotchi-galaxy-0.8.28-ios.ipa",
+          "size": 3020577,
+          "sha256": "00dca34522982629a4529f91a4f04cd78873851291bd3e72bc4d75cfe9fdc9bb",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.27",
           "buildVersion": "827",
           "date": "2026-10-18",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.19/gotchi-galaxy-0.8.19-ios.ipa",
           "size": 2907325,
           "sha256": "d6625ec6f0daa2d47727ba9bd43d3e44c56198e7027cb197440c7b29656758b7",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.8.18",
-          "buildVersion": "818",
-          "date": "2026-10-16",
-          "localizedDescription": "- Every furniture set redrawn: ten pieces each, arranged like a real room\n- New set: the Apricot Parlour. Two pets on its sofa grow closer\n- New sets for the garden: the Fairy Ring Garden and the Garden Stage; the beds are redrawn\n- Each pet has a wish of the day\n- Make friends on the square; friends can start a family\n- Visit a friend's room and leave a sticker on their window\n- All together party rounds, and sets show where to find a missing piece",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.18/gotchi-galaxy-0.8.18-ios.ipa",
-          "size": 2804961,
-          "sha256": "928686facf2c7a0ea8561566b541f5461c55bd367e4211bce894d58e31a36884",
           "minOSVersion": "15.0"
         }
       ]
