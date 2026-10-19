@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.33",
+          "buildVersion": "833",
+          "date": "2026-10-19",
+          "localizedDescription": "- Small fixes and polish",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.33/gotchi-galaxy-0.8.33-ios.ipa",
+          "size": 3390599,
+          "sha256": "c355c666e97e02b226cb17cd579f555a1996ea7f2efd05701d465d25bc715171",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.32",
           "buildVersion": "832",
           "date": "2026-10-19",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.24/gotchi-galaxy-0.8.24-ios.ipa",
           "size": 2941091,
           "sha256": "e715dcd4d48129a6ec43519b0a8e607edf611328744e3c0d92482a1786825bda",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.8.23",
-          "buildVersion": "823",
-          "date": "2026-10-17",
-          "localizedDescription": "- New islands get a welcome gift every day for a week\n- Every day: a free coin and a free spin of the prize wheel in the Shop\n- Gifts can arrive in your Mailbox: look for the dot\n- A new day starts at the same time for every player\n- Family pets cannot start a family; wild-born pets show where they were found\n- Pets open their mouths to eat\n- Vietnamese letters are easier to read\n- A moved island keeps its friend code",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.23/gotchi-galaxy-0.8.23-ios.ipa",
-          "size": 2924864,
-          "sha256": "fbd256d7ff6863d02b5afaafaee0bf03812465250362d094154c3fe77a39d42b",
           "minOSVersion": "15.0"
         }
       ]
