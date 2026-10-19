@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.30",
+          "buildVersion": "830",
+          "date": "2026-10-19",
+          "localizedDescription": "- The Mac app now opens straight away, with no security warning",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.30/gotchi-galaxy-0.8.30-ios.ipa",
+          "size": 3393640,
+          "sha256": "742e440e799b6eec26c4fb2bbe005de3bc6bd6b8d5ce9ffe8fe7b909341aa952",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.29",
           "buildVersion": "829",
           "date": "2026-10-19",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.21/gotchi-galaxy-0.8.21-ios.ipa",
           "size": 2910770,
           "sha256": "36845c41b4e5add85aa9943c6fc119353f596c0e1073267036853d965cca87f1",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.8.20",
-          "buildVersion": "820",
-          "date": "2026-10-16",
-          "localizedDescription": "- One Daily list: five small things a day, Star Miles for each, the shop inside\n- Long menu lines slide so you can read them all\n- Quiet hours slow needs only: pets keep growing\n- On holiday, the Daily list wishes you a good one",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.20/gotchi-galaxy-0.8.20-ios.ipa",
-          "size": 2905773,
-          "sha256": "500d5a33ef47e8ec920199104345f3ea783862c3872b1b37cbe37c0a3a8facf9",
           "minOSVersion": "15.0"
         }
       ]
