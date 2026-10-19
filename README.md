@@ -5,11 +5,11 @@ A pixel-art pocket pet you raise, breed and take to far-away planets. Free, no a
 ## Choose your way to play
 
 1. **Mac** (the full game, plays with friends on the same Wi-Fi)
-   - Download the Mac zip from the [latest release](https://github.com/cuongpnh/gotchi-galaxy-releases/releases/latest): the `arm64` one for Apple Silicon, the `x64` one for Intel.
+   - Download the Mac app: [Apple Silicon (M1 and later)](https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.33/gotchi-galaxy-0.8.33-arm64-mac.zip) or [Intel](https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.33/gotchi-galaxy-0.8.33-x64-mac.zip).
    - Unzip it and drag **Gotchi Galaxy** to Applications.
    - The first time, right-click the app and choose **Open**, then **Open** again. After that it updates itself.
 2. **Android** (the full game, plays with friends on the same Wi-Fi)
-   - Download the `.apk` from the [latest release](https://github.com/cuongpnh/gotchi-galaxy-releases/releases/latest) on your phone and open it.
+   - [Download the app](https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.35/gotchi-galaxy-0.8.35-android.apk) on your phone and open it.
    - Android asks to allow installs from this source: say yes once.
    - New versions are offered inside the game, in Settings.
 3. **iPhone app** through SideStore (the full game, plays with friends on the same Wi-Fi)

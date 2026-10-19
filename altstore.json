@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.35",
+          "buildVersion": "835",
+          "date": "2026-10-19",
+          "localizedDescription": "- Settings shows Screen size only on phones, where it works",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.35/gotchi-galaxy-0.8.35-ios.ipa",
+          "size": 3390636,
+          "sha256": "18cc87a4a2da6b12284024fd35689e5eae92875711b3fc4e015c2bd606a7c083",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.34",
           "buildVersion": "834",
           "date": "2026-10-19",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.26/gotchi-galaxy-0.8.26-ios.ipa",
           "size": 2979787,
           "sha256": "ddf6de2f44990f595bd21c3f3c2c8e3ca386855951e43b02a66c3f65deb3a45e",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.8.25",
-          "buildVersion": "825",
-          "date": "2026-10-17",
-          "localizedDescription": "- The Deep Mine: dig down 99 floors for six kinds of ore\n- Craft a Crystal Cave room and gem wear from your ore\n- Crack geodes at the Museum to fill the Gem Shelf\n- Pick a ceiling light for each room\n- Pets sit on more seats, and capes look right from behind\n- Pinch to zoom in the room, the garden and the Plaza\n- The Shop is on the room's bottom row\n- Your pet's age shows its life stage",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.25/gotchi-galaxy-0.8.25-ios.ipa",
-          "size": 2965062,
-          "sha256": "666d529bb4a7d113cd8abfd3e8ad03507cf3564385dba56ef8c9bfd0e16ad468",
           "minOSVersion": "15.0"
         }
       ]
