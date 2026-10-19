@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.32",
+          "buildVersion": "832",
+          "date": "2026-10-19",
+          "localizedDescription": "- Mac: updates now arrive as a small download and apply in a second\n- Settings shows the game and app version",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.32/gotchi-galaxy-0.8.32-ios.ipa",
+          "size": 3394300,
+          "sha256": "b9d69e9b703e193d4a8364cd48d2dd4373a3de4a5369ea826a462aa72e358844",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.31",
           "buildVersion": "831",
           "date": "2026-10-19",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.23/gotchi-galaxy-0.8.23-ios.ipa",
           "size": 2924864,
           "sha256": "fbd256d7ff6863d02b5afaafaee0bf03812465250362d094154c3fe77a39d42b",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.8.22",
-          "buildVersion": "822",
-          "date": "2026-10-16",
-          "localizedDescription": "- The trip porthole sits at the top right: tap it to look in on your pet\n- Hearts and little icons sit in the middle of the thought bubble",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.22/gotchi-galaxy-0.8.22-ios.ipa",
-          "size": 2910952,
-          "sha256": "260405c086a413cbb468111d0eaaafc8515c60829c82d5e295eb689cb776b0f7",
           "minOSVersion": "15.0"
         }
       ]
