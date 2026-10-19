@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.34",
+          "buildVersion": "834",
+          "date": "2026-10-19",
+          "localizedDescription": "- Small fixes and polish",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.34/gotchi-galaxy-0.8.34-ios.ipa",
+          "size": 3390604,
+          "sha256": "3bbf269a95ea14e267b076490240206530aceac158fb9a1c78013cd417426dcc",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.33",
           "buildVersion": "833",
           "date": "2026-10-19",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.25/gotchi-galaxy-0.8.25-ios.ipa",
           "size": 2965062,
           "sha256": "666d529bb4a7d113cd8abfd3e8ad03507cf3564385dba56ef8c9bfd0e16ad468",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.8.24",
-          "buildVersion": "824",
-          "date": "2026-10-17",
-          "localizedDescription": "- A cheerful hello when the game starts\n- The welcome gifts show what each day holds, and what comes tomorrow\n- The welcome gifts stay in the Daily list all week\n- Friends are in the main menu, one tap from your room\n- A gift on its way to a friend says so\n- Trips coming home together send one notice, not many",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.24/gotchi-galaxy-0.8.24-ios.ipa",
-          "size": 2941091,
-          "sha256": "e715dcd4d48129a6ec43519b0a8e607edf611328744e3c0d92482a1786825bda",
           "minOSVersion": "15.0"
         }
       ]
