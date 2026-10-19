@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.29",
+          "buildVersion": "829",
+          "date": "2026-10-19",
+          "localizedDescription": "- New game: Cloud Hop, tap to fly through the clouds, alone or in a duel\n- Five new thinking games: Fuel Line, Pet Cafe, Constellations, Pattern Train, Market Day\n- Friends online: see who is on, send quick messages, get a ping on your phone\n- Add a friend by code: your request waits in their Mailbox\n- New mail shows as a letter in your room, one tap to open\n- Deep Mine: about four floors a day, and floors you left stay as they were\n- Back from placing furniture returns you to where you were",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.29/gotchi-galaxy-0.8.29-ios.ipa",
+          "size": 3393608,
+          "sha256": "2367418601e03e5fac89ebe76f4c2514099172f63d3a5d20cab6818a2446fbd9",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.28",
           "buildVersion": "828",
           "date": "2026-10-18",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.20/gotchi-galaxy-0.8.20-ios.ipa",
           "size": 2905773,
           "sha256": "500d5a33ef47e8ec920199104345f3ea783862c3872b1b37cbe37c0a3a8facf9",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.8.19",
-          "buildVersion": "819",
-          "date": "2026-10-16",
-          "localizedDescription": "- Walk with me: on a phone, your day's steps make the next trip faster\n- Today's list: a few small things a day, then you're done\n- Feed and play reach every pet at once; grown pets need less\n- Grown-ups settings: play time limit, quiet hours, fake calls off\n- Back after a while? A visitor may wait in the garden\n- New games: Bomb Miner, Follow the Leader, duels and a rhythm stage show\n- Share a picture of the game or your pet's diary\n- Game coins slow down after a busy day",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.19/gotchi-galaxy-0.8.19-ios.ipa",
-          "size": 2907325,
-          "sha256": "d6625ec6f0daa2d47727ba9bd43d3e44c56198e7027cb197440c7b29656758b7",
           "minOSVersion": "15.0"
         }
       ]
