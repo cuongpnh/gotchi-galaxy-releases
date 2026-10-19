@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.36",
+          "buildVersion": "836",
+          "date": "2026-10-19",
+          "localizedDescription": "- The garden grows to two screens, with an orchard of fruit trees to plant, water and pick\n- Sell fruit to Sesame, or tie a Fruit Basket to give\n- A new garden set: the Orchard Picnic\n- Five thinking games for young players: Constellations, Pattern Train, Fuel Line, Pet Cafe and Market Day",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.36/gotchi-galaxy-0.8.36-ios.ipa",
+          "size": 3418643,
+          "sha256": "79807095781df843d8cc29d73c0b45836a773505b74509e6fd5b97a54bd6d58a",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.35",
           "buildVersion": "835",
           "date": "2026-10-19",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.27/gotchi-galaxy-0.8.27-ios.ipa",
           "size": 3015582,
           "sha256": "25e4d30c620deaec8c36bdd74ea6d023328853a93465e5a4c524ecd2d942c7df",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.8.26",
-          "buildVersion": "826",
-          "date": "2026-10-17",
-          "localizedDescription": "- Plaza Expedition: dig the Deep Mine with a friend or Chirpy at the mine cart table\n- Your team pickaxe upgrades itself from the ore you find\n- Light a bomb to blast rocks open, in your own mine too\n- Tap a rock to walk over and dig\n- New gem-style ore icons\n- Tidier screens: titles, numbers and icons line up\n- The Night Sky Cloak shows its stars",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.26/gotchi-galaxy-0.8.26-ios.ipa",
-          "size": 2979787,
-          "sha256": "ddf6de2f44990f595bd21c3f3c2c8e3ca386855951e43b02a66c3f65deb3a45e",
           "minOSVersion": "15.0"
         }
       ]
