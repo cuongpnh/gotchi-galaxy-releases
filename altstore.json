@@ -17,6 +17,16 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.8.31",
+          "buildVersion": "831",
+          "date": "2026-10-19",
+          "localizedDescription": "- Fixes the Mac app not starting after the last update",
+          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.31/gotchi-galaxy-0.8.31-ios.ipa",
+          "size": 3393686,
+          "sha256": "dd012fab5d83bc73efac33e2a61e211d2d7e9def6873cc67630e2913738724e9",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.30",
           "buildVersion": "830",
           "date": "2026-10-19",
@@ -104,16 +114,6 @@
           "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.22/gotchi-galaxy-0.8.22-ios.ipa",
           "size": 2910952,
           "sha256": "260405c086a413cbb468111d0eaaafc8515c60829c82d5e295eb689cb776b0f7",
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.8.21",
-          "buildVersion": "821",
-          "date": "2026-10-16",
-          "localizedDescription": "- The trip porthole shows whoever is home; swipe to see each pet that is out\n- At night with the lights on, your room stays bright; lights off puts the candles out\n- The square reconnects by itself and keeps your place\n- Grown-ups can turn off sharing play counts",
-          "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.21/gotchi-galaxy-0.8.21-ios.ipa",
-          "size": 2910770,
-          "sha256": "36845c41b4e5add85aa9943c6fc119353f596c0e1073267036853d965cca87f1",
           "minOSVersion": "15.0"
         }
       ]
