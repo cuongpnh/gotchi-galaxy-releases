@@ -9,7 +9,7 @@ A pixel-art pocket pet you raise, breed and take to far-away planets. Free, no a
    - Unzip it and drag **Gotchi Galaxy** to Applications.
    - Open it. The first time, your Mac asks whether to open an app downloaded from the internet: choose **Open**. After that it updates itself.
 2. **Android** (the full game, plays with friends on the same Wi-Fi)
-   - [Download the app](https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.37/gotchi-galaxy-0.8.37-android.apk) on your phone and open it.
+   - [Download the app](https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.38/gotchi-galaxy-0.8.38-android.apk) on your phone and open it.
    - Android asks to allow installs from this source: say yes once.
    - New versions are offered inside the game, in Settings.
 3. **iPhone app** through TestFlight (the full game, plays with friends on the same Wi-Fi)
