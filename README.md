@@ -7,15 +7,18 @@ A pixel-art pocket pet you raise, breed and take to far-away planets. Free, no a
 1. **Mac** (the full game, plays with friends on the same Wi-Fi)
    - Download the Mac app: [Apple Silicon (M1 and later)](https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.33/gotchi-galaxy-0.8.33-arm64-mac.zip) or [Intel](https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.33/gotchi-galaxy-0.8.33-x64-mac.zip).
    - Unzip it and drag **Gotchi Galaxy** to Applications.
-   - The first time, right-click the app and choose **Open**, then **Open** again. After that it updates itself.
+   - Open it. The first time, your Mac asks whether to open an app downloaded from the internet: choose **Open**. After that it updates itself.
 2. **Android** (the full game, plays with friends on the same Wi-Fi)
    - [Download the app](https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.35/gotchi-galaxy-0.8.35-android.apk) on your phone and open it.
    - Android asks to allow installs from this source: say yes once.
    - New versions are offered inside the game, in Settings.
-3. **iPhone app** through SideStore (the full game, plays with friends on the same Wi-Fi)
-   - About 15 minutes the first time, and a computer for the setup.
+3. **iPhone app** through TestFlight (the full game, plays with friends on the same Wi-Fi)
+   - Install Apple's **TestFlight** app from the App Store.
+   - On your iPhone, open [the Gotchi Galaxy invite](https://testflight.apple.com/join/AsjBScbr), tap **Accept**, then **Install**.
+   - New versions arrive in TestFlight; it offers each one.
+4. **iPhone app** through SideStore, without TestFlight (the full game; about 15 minutes the first time, and a computer for the setup)
    - Follow the [step-by-step iPhone guide](https://cuongpnh.github.io/gotchi-galaxy-releases/ios/).
-4. **iPhone web version** (one link, solo play)
+5. **iPhone web version** (one link, solo play)
    - Open [the web version](https://cuongpnh.github.io/gotchi-galaxy-releases/play/) in Safari, then Share, then **Add to Home Screen**.
    - Playing with friends needs the app. The web version is solo play, and your save lives in that browser.
 
