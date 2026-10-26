@@ -15,14 +15,14 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="default" />
   <!-- the Mac app's window is see-through, so the splash card is rounded there, not a hard rectangle (style.css); set before anything paints -->
   <script>if (/Electron\//.test(navigator.userAgent)) document.documentElement.classList.add('desktop');</script>
-  <script type="module" crossorigin src="./assets/main-BnVSRA11.js"></script>
+  <script type="module" crossorigin src="./assets/main-DbySbCLm.js"></script>
   <link rel="modulepreload" crossorigin href="./assets/rolldown-runtime-DK3Fl9T5.js">
-  <link rel="modulepreload" crossorigin href="./assets/petSprite-CejKNiP5.js">
+  <link rel="modulepreload" crossorigin href="./assets/petSprite-BIXcsdRI.js">
   <link rel="modulepreload" crossorigin href="./assets/dist-62TeNfsI.js">
   <link rel="modulepreload" crossorigin href="./assets/preload-helper-CRzLMJPS.js">
   <link rel="modulepreload" crossorigin href="./assets/definitions-DlpntO5o.js">
-  <link rel="modulepreload" crossorigin href="./assets/esm-gClvro-N.js">
-  <link rel="stylesheet" crossorigin href="./assets/main-BGYpgSkK.css">
+  <link rel="modulepreload" crossorigin href="./assets/esm-CSqWHr3P.js">
+  <link rel="stylesheet" crossorigin href="./assets/main-CLdkyt0t.css">
 </head>
 <body>
   <!-- the splash card: up until the start-up voice has finished (src/splash.ts paints the meadow; body.splash-done hides it) -->
@@ -50,5 +50,7 @@
     </div>
     <div id="hint">A select · B ok · C back</div>
   </div>
+  <!-- the panel under the screen while the case is put away (src/below.ts) -->
+  <canvas id="below" aria-label="More"></canvas>
 </body>
 </html>
