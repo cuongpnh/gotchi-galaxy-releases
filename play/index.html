@@ -15,14 +15,14 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="default" />
   <!-- the Mac app's window is see-through, so the splash card is rounded there, not a hard rectangle (style.css); set before anything paints -->
   <script>if (/Electron\//.test(navigator.userAgent)) document.documentElement.classList.add('desktop');</script>
-  <script type="module" crossorigin src="./assets/main-CHr-obeD.js"></script>
+  <script type="module" crossorigin src="./assets/main-ZUqewzVY.js"></script>
   <link rel="modulepreload" crossorigin href="./assets/rolldown-runtime-DK3Fl9T5.js">
-  <link rel="modulepreload" crossorigin href="./assets/petSprite-DEfFGyzx.js">
+  <link rel="modulepreload" crossorigin href="./assets/petSprite-7AmZ9sY3.js">
   <link rel="modulepreload" crossorigin href="./assets/dist-62TeNfsI.js">
   <link rel="modulepreload" crossorigin href="./assets/preload-helper-CRzLMJPS.js">
   <link rel="modulepreload" crossorigin href="./assets/definitions-DlpntO5o.js">
-  <link rel="modulepreload" crossorigin href="./assets/esm-DUeDnoMa.js">
-  <link rel="stylesheet" crossorigin href="./assets/main-Bw2NGTW5.css">
+  <link rel="modulepreload" crossorigin href="./assets/esm-D6C8Zz6b.js">
+  <link rel="stylesheet" crossorigin href="./assets/main-pdiX-vlm.css">
 </head>
 <body>
   <!-- the splash card: up until the start-up voice has finished (src/splash.ts paints the meadow; body.splash-done hides it) -->
@@ -31,6 +31,8 @@
     <div class="band"><canvas class="title"></canvas><canvas class="scene"></canvas><canvas class="bar"></canvas></div>
   </div>
   <div id="device">
+    <!-- the sky and nest the egg rests in on a window taller than the case (src/render/caseBackdrop.ts, set by shell.ts); behind the case -->
+    <div id="scenery" aria-hidden="true"></div>
     <div id="case" aria-hidden="true"></div>
     <div id="controls">
       <button class="dot" data-win="close" title="Close"></button>
