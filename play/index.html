@@ -15,14 +15,14 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="default" />
   <!-- the Mac app's window is see-through, so the splash card is rounded there, not a hard rectangle (style.css); set before anything paints -->
   <script>if (/Electron\//.test(navigator.userAgent)) document.documentElement.classList.add('desktop');</script>
-  <script type="module" crossorigin src="./assets/main-CePZVO7t.js"></script>
+  <script type="module" crossorigin src="./assets/main-mSD-9C_-.js"></script>
   <link rel="modulepreload" crossorigin href="./assets/rolldown-runtime-DK3Fl9T5.js">
-  <link rel="modulepreload" crossorigin href="./assets/petSprite-D5VITk-d.js">
+  <link rel="modulepreload" crossorigin href="./assets/petSprite-C49p9fVC.js">
   <link rel="modulepreload" crossorigin href="./assets/dist-62TeNfsI.js">
   <link rel="modulepreload" crossorigin href="./assets/preload-helper-CRzLMJPS.js">
   <link rel="modulepreload" crossorigin href="./assets/definitions-DlpntO5o.js">
-  <link rel="modulepreload" crossorigin href="./assets/esm-9wD7GtIu.js">
-  <link rel="stylesheet" crossorigin href="./assets/main-pdiX-vlm.css">
+  <link rel="modulepreload" crossorigin href="./assets/esm-Ci221smr.js">
+  <link rel="stylesheet" crossorigin href="./assets/main-BNOPkl7n.css">
 </head>
 <body>
   <!-- the splash card: up until the start-up voice has finished (src/splash.ts paints the meadow; body.splash-done hides it) -->
@@ -52,6 +52,9 @@
     </div>
     <div id="hint">A select · B ok · C back</div>
   </div>
+  <!-- what a screen reader says (src/ui/speak.ts, Accessibility mode only): hidden from sight, read aloud when its text changes -->
+  <div id="speech" class="sr-only" role="status" aria-live="polite" aria-atomic="true"></div>
+  <div id="speech-alert" class="sr-only" role="alert" aria-live="assertive" aria-atomic="true"></div>
   <!-- the panel under the screen while the case is put away (src/below.ts) -->
   <canvas id="below" aria-label="More"></canvas>
 </body>
