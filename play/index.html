@@ -15,12 +15,12 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="default" />
   <!-- the Mac app's window is see-through, so the splash card is rounded there, not a hard rectangle (style.css); set before anything paints -->
   <script>if (/Electron\//.test(navigator.userAgent)) document.documentElement.classList.add('desktop');</script>
-  <script type="module" crossorigin src="./assets/main-pWTVaWup.js"></script>
+  <script type="module" crossorigin src="./assets/main-DbjyWfUN.js"></script>
   <link rel="modulepreload" crossorigin href="./assets/rolldown-runtime-DK3Fl9T5.js">
-  <link rel="modulepreload" crossorigin href="./assets/petSprite-CuT9x9iR.js">
+  <link rel="modulepreload" crossorigin href="./assets/petSprite-Ca5lq0--.js">
   <link rel="modulepreload" crossorigin href="./assets/dist-BdXh3wsA.js">
   <link rel="modulepreload" crossorigin href="./assets/preload-helper-CRzLMJPS.js">
-  <link rel="modulepreload" crossorigin href="./assets/platform-BIeHgm8J.js">
+  <link rel="modulepreload" crossorigin href="./assets/platform-Sy3Rthez.js">
   <link rel="modulepreload" crossorigin href="./assets/definitions-DlpntO5o.js">
   <link rel="modulepreload" crossorigin href="./assets/esm-CwvvTn1t.js">
   <link rel="stylesheet" crossorigin href="./assets/main-DgRcPoCP.css">
@@ -40,7 +40,8 @@
       <button class="dot" data-win="minimize" title="Minimise"></button>
       <button class="dot" data-win="pin" title="Keep on top"></button>
     </div>
-    <canvas id="brand" aria-label="Gotchi Galaxy"></canvas>
+    <!-- the case's painted name: decoration, hidden from screen readers (VoiceOver read a canvas with no image role as "unlabeled image", the blind tester, 2026-11-13) -->
+    <canvas id="brand" aria-hidden="true"></canvas>
     <div id="bezel">
       <div id="lcd">
         <canvas id="screen" width="192" height="160"></canvas>
@@ -57,6 +58,6 @@
   <div id="speech" class="sr-only" role="status" aria-live="polite" aria-atomic="true"></div>
   <div id="speech-alert" class="sr-only" role="alert" aria-live="assertive" aria-atomic="true"></div>
   <!-- the panel under the screen while the case is put away (src/below.ts) -->
-  <canvas id="below" aria-label="More"></canvas>
+  <canvas id="below" role="img" aria-label="More"></canvas>
 </body>
 </html>
